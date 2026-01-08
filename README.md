@@ -132,13 +132,3 @@
 - 실제 서비스 구조를 고려한 **완성형 웹 플랫폼 구현 경험**
 
 ---
-
-## 🚀 Execution
-```bash
-# client
-npm install
-npm start
-
-# server
-npm install
-npm start
