@@ -1,0 +1,23 @@
+# dependencies
+**/node_modules/
+
+# builds
+**/build/
+**/dist/
+
+# env
+**/.env
+**/.env.*
+
+# uploads
+**/upload/
+**/uploads/
+
+# logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
